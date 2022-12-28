@@ -12,6 +12,7 @@ A 24 hours course in Python focusing on aspects pertinent to data scientists, ra
 
 TP 1
 ======
+codeurl: 'TP1_Intro.ipynb'
 
 TP 2
 ======
