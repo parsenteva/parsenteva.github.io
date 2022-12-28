@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course (L2)"
 permalink: /teaching/stats_class
 venue: "Université de Bourgogne, Department of Economics"
-date: 2022
+year: 2022
 location: "Dijon, France"
 ---
 
