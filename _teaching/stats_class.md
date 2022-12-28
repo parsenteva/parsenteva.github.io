@@ -8,4 +8,4 @@ date: 2022
 location: "Dijon, France"
 ---
 
-One semester of supervised practical work (TD) in the framework of a course taught by Hervé Cardot.
+One semester of supervised practical work (TD) in the framework of a course taught by [Hervé Cardot](https://cardot.perso.math.cnrs.fr).
