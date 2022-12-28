@@ -1,8 +1,8 @@
 ---
-title: "Python"
+title: "Introduction to Python"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+type: "Graduate course"
+permalink: /teaching/python_class
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
@@ -10,11 +10,11 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+TP 1
 ======
 
-Heading 2
+TP 2
 ======
 
-Heading 3
+TP 3
 ======
