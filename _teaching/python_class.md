@@ -3,12 +3,12 @@ title: "Introduction to Python"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/python_class
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Université de Bourgogne, Department of Economics (Masters DASEE)"
+date: 2022-01-01
+location: "Dijon, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+A 24 hours course in Python focusing on aspects pertinent to data scientists, ranging from basic Python to web scraping.
 
 TP 1
 ======
