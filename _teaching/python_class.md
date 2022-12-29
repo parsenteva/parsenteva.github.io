@@ -6,7 +6,6 @@ permalink: /teaching/python_class
 venue: "Université de Bourgogne, Department of Economics (Masters DASEE)"
 date: 2022-01-01
 location: "Dijon, France"
-codeurl: 'https://parsenteva.github.io/files/TP1_Intro.ipynb'
 ---
 
 A 24 hours course in Python focusing on aspects pertinent to data scientists, ranging from basic Python to web scraping. The course is based on the book written by [Kevin Sheppard](https://www.kevinsheppard.com) that is available [here](https://www.kevinsheppard.com/files/teaching/python/notes/python_introduction_2019.pdf).
