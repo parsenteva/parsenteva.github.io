@@ -13,6 +13,9 @@ A 24 hours course in Python focusing on aspects pertinent to data scientists, ra
 TP 1
 ======
 Introduction of basic Python data types and structures such as functions, loops, flow control blocks, etc. [Jupyter notebook](https://parsenteva.github.io/files/TP1_Intro.ipynb).
+---
+code-url: 'https://parsenteva.github.io/files/TP1_Intro.ipynb'
+---
 
 TP 2
 ======
