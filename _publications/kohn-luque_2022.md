@@ -4,6 +4,6 @@ authors: "Alvaro Köhn-Luque, Even Moa Myklebust, Dagim Shiferaw Tadele, Mariase
 collection: publications
 date: 2022-01-01
 conf: 'Preprint'
-arxivurl: '[https://www.biorxiv.org/content/10.1101/2022.01.17.476604v2]'
+arxivurl: 'https://www.biorxiv.org/content/10.1101/2022.01.17.476604v2'
 conf: Preprint
 ---
