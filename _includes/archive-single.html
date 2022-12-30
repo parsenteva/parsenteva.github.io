@@ -34,7 +34,7 @@
       {% endif %}
     </strong></font>
 
-    {% if post.author %}
+    {% if post.authors %}
       <br><font size='3'>{{ post.authors }}</font>
     {% endif %}
 
@@ -61,7 +61,7 @@
       {% if post.posterlink %}
       <font size='3' color="LightSkyBlue"><a href=" {{ post.posterlink }} " >[Poster]</a></font>
       {% endif %}
-      {% if post.arxiv %}
+      {% if post.arxivurl %}
       <font size='3' color="LightSkyBlue"><a href=" {{ post.arxiv }} " >[ArXiv]</a></font>
       {% endif %}
 
