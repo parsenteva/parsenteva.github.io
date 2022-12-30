@@ -36,7 +36,13 @@
 
     {% if post.authors %}
       <br><font size='3'>{{ post.authors }}</font>
-    {% endif %}. {{ post.conf }}, {{post.year}}</em></font>
+    {% endif %} 
+    
+    {% if post.conf %}
+       <font size='3'><em>{{ post.conf }}{% if post.conf_shortname %}
+         ({{ post.conf_shortname}})
+     {% endif %}, {{post.year}}</em></font>
+     {% endif %}
 
 
     {% if post.highlight %}
