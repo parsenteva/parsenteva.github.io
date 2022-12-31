@@ -2,7 +2,7 @@
 title: "Introduction to Python"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/python_class
+permalink: /teaching/
 venue: "Université de Bourgogne, Department of Economics (Masters DASEE)"
 date: 2022-01-01
 location: "Dijon, France"
