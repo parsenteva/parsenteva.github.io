@@ -2,7 +2,7 @@
 title: "Statistics"
 collection: teaching
 type: "Undergraduate course (L2)"
-permalink: /teaching/
+permalink: /teaching/stats-class
 venue: "Université de Bourgogne, Department of Economics"
 date: 2022-01-01
 location: "Dijon, France"
