@@ -16,7 +16,7 @@ Introduction of basic Python data types and structures such as functions, loops,
 
 TP 2
 ======
-Basic data processing: importing and exporting data files, <strong>pandas</strong> library, data structures and some of the useful features.
+Basic data processing: importing and exporting data files, <strong>pandas</strong> library, data structures and some of the useful features. [Data for the exercises](https://parsenteva.github.io/files/Data_TP2.zip).
 
 TP 3
 ======
