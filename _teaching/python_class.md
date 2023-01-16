@@ -12,19 +12,23 @@ A 24 hours course in Python focusing on aspects pertinent to data scientists, ra
 
 TP 1
 ======
-Introduction of basic Python data types and structures such as functions, loops, flow control blocks, etc. [Jupyter notebook](https://parsenteva.github.io/files/TP1_Intro.ipynb).
+Introduction of basic Python data types and structures such as functions, loops, flow control blocks, etc. <strong>NumPy</strong> library, base data types and features. [Jupyter notebook](https://parsenteva.github.io/files/TP1_Intro.ipynb).
 
 TP 2
 ======
+Basic data processing: importing and exporting data files, <strong>pandas</strong> library, data structures and some of the useful features.
 
 TP 3
 ======
+Graphics: <strong>Matplotlib</strong> and <strong>seaborn</strong> libraries, line and scatter plots, pie charts, histograms, subplots, etc. 
 
 TP 4
 ======
+Statistics and probability in Python: simulation of random variables, distrubution associated functions, statistical tests.
 
 TP 5
 ======
+Web scraping with <strong>BeautifulSoup</strong>.
 
 Project
 =======
