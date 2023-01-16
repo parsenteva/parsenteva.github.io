@@ -24,7 +24,7 @@ Graphics: <strong>Matplotlib</strong> and <strong>seaborn</strong> libraries, li
 
 TP 4
 ======
-Statistics and probability in Python: simulation of random variables, distrubution associated functions, statistical tests.
+Statistics and probability in Python: simulation of random variables, distribution associated functions, statistical tests.
 
 TP 5
 ======
