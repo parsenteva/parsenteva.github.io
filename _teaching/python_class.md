@@ -12,11 +12,11 @@ A 24 hours course in Python focusing on aspects pertinent to data scientists, ra
 
 TP 1
 ======
-Introduction of basic Python data types and structures such as functions, loops, flow control blocks, etc. <strong>NumPy</strong> library, base data types and features. [Jupyter notebook](https://parsenteva.github.io/files/TP1_Intro.ipynb) with [answers](https://parsenteva.github.io/files/TP1_Intro_Answers_without_last.ipynb).
+Introduction of basic Python data types and structures such as functions, loops, flow control blocks, etc. <strong>NumPy</strong> library, base data types and features. [Jupyter notebook](https://parsenteva.github.io/files/TP1_Intro.ipynb) with [answers](https://parsenteva.github.io/files/TP1_Intro_Answers.ipynb).
 
 TP 2
 ======
-Basic data processing: importing and exporting data files, <strong>pandas</strong> library, data structures and some of the useful features. [Data for the exercises](https://parsenteva.github.io/files/Data_TP2.zip).
+Basic data processing: importing and exporting data files, <strong>pandas</strong> library, data structures and some of the useful features. [Data for the exercises](https://parsenteva.github.io/files/Data_TP2.zip) with [answers](https://parsenteva.github.io/files/TP2_DataProc_Answers_ch9.ipynb).
 
 TP 3
 ======
