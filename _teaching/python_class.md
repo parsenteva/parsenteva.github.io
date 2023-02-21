@@ -20,7 +20,7 @@ Basic data processing: importing and exporting data files, <strong>pandas</stron
 
 TP 3
 ======
-Graphics: <strong>Matplotlib</strong> and <strong>seaborn</strong> libraries, line and scatter plots, pie charts, histograms, subplots, etc. [Data for the exercises](https://parsenteva.github.io/files/FTSE_09.csv).
+Graphics: <strong>Matplotlib</strong> and <strong>seaborn</strong> libraries, line and scatter plots, pie charts, histograms, subplots, etc. [Data for the exercises](https://parsenteva.github.io/files/FTSE_09.csv), [examples](https://parsenteva.github.io/files/TP3_examples.ipynb).
 
 TP 4
 ======
