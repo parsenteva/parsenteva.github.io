@@ -24,11 +24,11 @@ Graphics: <strong>Matplotlib</strong> and <strong>seaborn</strong> libraries, li
 
 TP 4
 ======
-Statistics and probability in Python: simulation of random variables, distribution associated functions, statistical tests.
+Statistics and probability in Python using <strong>numpy.random</strong> and <strong>scipy.stats</strong>: simulation of random variables, distribution associated functions, statistical tests. [Answers to some of the exercises](https://parsenteva.github.io/files/TP4_Probability_n_Statistics_Answers.ipynb).
 
 TP 5
 ======
-Web scraping with <strong>BeautifulSoup</strong>.
+Simple web scraping with <strong>Requests</strong> and <strong>BeautifulSoup</strong>. [Jupyter notebook](https://parsenteva.github.io/files/TP5_Web_Scraping_TP.ipynb).
 
 Project
 =======
