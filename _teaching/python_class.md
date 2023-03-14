@@ -28,7 +28,7 @@ Statistics and probability in Python using <strong>numpy.random</strong> and <st
 
 TP 5
 ======
-Simple web scraping with <strong>Requests</strong> and <strong>BeautifulSoup</strong>. [Jupyter notebook](https://parsenteva.github.io/files/TP5_Web_Scraping_TP.ipynb).
+Simple web scraping with <strong>Requests</strong> and <strong>BeautifulSoup</strong>. [Jupyter notebook](https://parsenteva.github.io/files/TP5_Web_Scraping_TP.ipynb) with [answers](https://parsenteva.github.io/files/TP5_Web_Scraping_TP_Answers.ipynb).
 
 Project
 =======
