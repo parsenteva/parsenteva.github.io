@@ -32,4 +32,4 @@ Simple web scraping with <strong>Requests</strong> and <strong>BeautifulSoup</st
 
 Project
 =======
-[Jupyter notebook](https://parsenteva.github.io/files/Python_Class_Project.ipynb), [PDF](https://parsenteva.github.io/files/Python_Class_Project.pdf), [data](https://parsenteva.github.io/files/hotel_listings.xlsx).
+[Jupyter notebook](https://parsenteva.github.io/files/Python_Class_Project.ipynb), [PDF](https://parsenteva.github.io/files/Python_Class_Project.pdf), [data](https://parsenteva.github.io/files/hotel_listings.xlsx) and [answers](https://parsenteva.github.io/files/Python_Class_Project_Answers.ipynb).
