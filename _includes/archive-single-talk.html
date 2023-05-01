@@ -62,7 +62,7 @@
     <br><font size='3' color="Tomato">{{post.highlight}}</font>
     {% endif %}
     
-   
+    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
 
     {% if post.additional %}<br>
       {% if post.paperurl %}
