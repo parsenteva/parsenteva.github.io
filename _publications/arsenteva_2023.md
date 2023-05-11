@@ -1,5 +1,5 @@
 ---
-title: "Omic fold changes clustering with alignment and network inference: an application to study the radiation response of endothelial cells"
+title: "Omic Fold Changes Clustering With Alignment And Network Inference: An Application To Study The Radiation Response Of Endothelial Cells"
 authors: "<strong>Polina Arsenteva</strong>, Olivier Guipaud, Vincent Paget,Morgane Dos Santos, Georges Tarlet, Fabien Milliat, Hervé Cardot, Mohamed Amine Benadjaoud."
 collection: publications
 date: 2023-11-05
