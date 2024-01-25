@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Polina Arsenteva"
   avatar           : "profile_pic.jpg"
-  bio              : "PhD candidate in applied mathematics"
+  bio              : "PhD in applied mathematics"
   location         : "France"
-  employer         : IMB, Université de Bourgogne
+  employer         : LMJL, Nantes Université
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "polina.arsenteva@u-bourgogne.fr"
+  email            : "polina.arsenteva@univ-nantes.fr"
   researchgate     : "https://www.researchgate.net/profile/Polina-Arsenteva"
   uri              :
   bitbucket        :
