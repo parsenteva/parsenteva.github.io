@@ -1,5 +1,5 @@
 ---
-title: "Joint clustering with alignment for temporal data in a one-point-per-trajectory setting."
+title: "Joint Clustering With Alignment for Temporal Data in a One-Point-per-Trajectory Setting."
 authors: "<strong>Polina Arsenteva</strong>, Mohamed Amine Benadjaoud, Hervé Cardot."
 collection: publications
 date: 2023-11-17
