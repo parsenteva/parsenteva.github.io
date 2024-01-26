@@ -1,5 +1,5 @@
 ---
-title: "Comparing cellular response to two radiation treatments based on key features visualization."
+title: "Comparing Cellular Response to Two Radiation Treatments Based on Key Features Visualization."
 authors: "<strong>Polina Arsenteva</strong>, Olivier Guipaud, Vincent Paget, Morgane Dos Santos, Georges Tarlet, Fabien Milliat, Hervé Cardot, Mohamed Amine Benadjaoud."
 collection: publications
 date: 2024-01-02
