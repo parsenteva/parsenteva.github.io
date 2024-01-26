@@ -1,11 +1,11 @@
 ---
-title: "Omic Fold Changes Clustering with Alignment and Network Inference: an Application to Study the Radiation Response of Endothelial Cells"
-authors: "<strong>Polina Arsenteva</strong>, Olivier Guipaud, Vincent Paget, Morgane Dos Santos, Georges Tarlet, Fabien Milliat, Hervé Cardot, Mohamed Amine Benadjaoud."
+title: "Joint clustering with alignment for temporal data in a one-point-per-trajectory setting. Preprint,"
+authors: "<strong>Polina Arsenteva</strong>, Mohamed Amine Benadjaoud, Hervé Cardot."
 collection: publications
-date: 2023-11-05
+date: 2023-17-11
 year: 2023
 conf: 'Manuscript submitted for publication'
-#arxivurl: 'https://www.biorxiv.org/content/10.1101/2022.01.17.476604v2'
+arxivurl: 'https://www.https://arxiv.org/abs/2311.10282'
 #paperurl: 'https://www.sciencedirect.com/science/article/pii/S2667237523000280?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=268550789&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM348155&utm_source=AC_'
 codeurl: 'https://github.com/parsenteva/scanofc'
 ---
