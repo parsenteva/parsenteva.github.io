@@ -2,7 +2,7 @@
 title: "Joint clustering with alignment for temporal data in a one-point-per-trajectory setting."
 authors: "<strong>Polina Arsenteva</strong>, Mohamed Amine Benadjaoud, Hervé Cardot."
 collection: publications
-date: 2023-17-11
+date: 2023-11-17
 year: 2023
 conf: 'Preprint'
 arxivurl: 'https://www.arxiv.org/abs/2311.10282'
