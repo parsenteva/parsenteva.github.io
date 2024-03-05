@@ -1,5 +1,5 @@
 ---
-title: "Phenotypic Deconvolution in Heterogeneous Cancer Cell Populations Using Drug Screening Data"
+title: "Phenotypic Deconvolution in Heterogeneous Cancer Cell Populations Using Drug Screening Data."
 authors: "Alvaro Köhn-Luque, Even Moa Myklebust, Dagim Shiferaw Tadele, Mariaserena Giliberto, Jasmine Noory, Elise Harivel, <strong>Polina Arsenteva</strong>, Shannon M Mumenthaler, Fredrik Hellem Schjesvold, Kjetil Taskén, Jorrit Enserink, Kevin Leder, Arnoldo Frigessi, Jasmine Foo."
 collection: publications
 date: 2023-01-01
