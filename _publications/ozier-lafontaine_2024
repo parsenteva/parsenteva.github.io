@@ -1,0 +1,11 @@
+---
+title: "Kernel-Based Testing for Single-Cell Differential Analysis."
+authors: "Anthony Ozier-Lafontaine, Camille Fourneaux, Ghislain Durif, <strong>Polina Artenseva</strong>, Céline Vallot, Olivier Gandrillon, Sandrine Gonin-Giraud, Bertrand Michel, Franck Picard."
+collection: publications
+date: 2024-04-01
+year: 2024
+conf: 'Genome Biology, in press'
+arxivurl: 'https://arxiv.org/abs/2307.08509'
+#paperurl: 'https://www.sciencedirect.com/science/article/pii/S2667237523000280?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=268550789&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM348155&utm_source=AC_'
+codeurl: 'https://github.com/LMJL-Alea/ktest'
+---
