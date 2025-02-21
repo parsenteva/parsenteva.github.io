@@ -4,8 +4,8 @@ authors: "<strong>Polina Arsenteva</strong>, Mohamed Amine Benadjaoud, Hervé Ca
 collection: publications
 date: 2023-11-17
 year: 2023
-conf: 'Preprint'
+conf: 'Journal of Computational and Graphical Statistics'
 arxivurl: 'https://www.arxiv.org/abs/2311.10282'
-#paperurl: 'https://www.sciencedirect.com/science/article/pii/S2667237523000280?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=268550789&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM348155&utm_source=AC_'
+paperurl: 'https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2467645'
 codeurl: 'https://github.com/parsenteva/scanofc'
 ---
