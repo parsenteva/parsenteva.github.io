@@ -2,7 +2,7 @@
 title: "Joint Clustering With Alignment for Temporal Data in a One-Point-per-Experiment Setting."
 authors: "<strong>Polina Arsenteva</strong>, Mohamed Amine Benadjaoud, Hervé Cardot."
 collection: publications
-date: 2023-11-17
+date: 2025-02-19
 year: 2023
 conf: 'Journal of Computational and Graphical Statistics'
 arxivurl: 'https://www.arxiv.org/abs/2311.10282'
