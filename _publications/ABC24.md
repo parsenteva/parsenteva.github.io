@@ -1,5 +1,5 @@
 ---
-title: "Estimating the Linear Relation Between Variables That Are Never Jointly Observed."
+title: "Bootstrap Inference for Linear Regression Between Variables That Are Never Jointly Observed: Application in In Vivo Experiments."
 authors: "<strong>Polina Arsenteva</strong>, Mohamed Amine Benadjaoud, Hervé Cardot."
 collection: publications
 date: 2024-01-02
