@@ -85,10 +85,10 @@ author:
   avatar           : "profile_pic.jpg"
   bio              : "Ph.D. in Applied Mathematics"
   location         : "France"
-  employer         : LMJL, Nantes Université
+  employer         : LBMC, ENS de Lyon
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "polina.arsenteva@univ-nantes.fr"
+  email            : firstname‘dot’lastname‘at’ens-lyon‘dot’fr
   researchgate     : "https://www.researchgate.net/profile/Polina-Arsenteva"
   uri              :
   bitbucket        :
